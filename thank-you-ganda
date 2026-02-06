@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Thank You Ganda</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+    }
+    .card {
+      background: rgba(0, 0, 0, 0.6);
+      padding: 25px;
+      border-radius: 16px;
+      max-width: 360px;
+      box-shadow: 0 0 20px rgba(255, 215, 0, 0.6);
+    }
+    h1 {
+      color: #ffd700;
+      margin-bottom: 10px;
+    }
+    p {
+      line-height: 1.6;
+      font-size: 16px;
+    }
+    .heart {
+      font-size: 28px;
+      margin-top: 10px;
+    }
+    footer {
+      margin-top: 15px;
+      font-size: 13px;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <h1>Thank You, Ganda 🙏</h1>
+    <p>
+      Thank you so much for helping me with money when I really needed it.
+      Your support came at the right time, and I’m truly grateful for your kindness.
+    </p>
+    <p>
+      I won’t forget what you did for me. Your help meant a lot and gave me strength and hope.
+      I promise to work hard and do my best going forward.
+    </p>
+    <div class="heart">💛💰</div>
+    <footer>
+      — From Unique Kushawaha
+    </footer>
+  </div>
+
+</body>
+</html>
